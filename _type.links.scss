@@ -1,0 +1,21 @@
+// 
+// Declarations  
+// ========================================================================== 
+
+// 
+// Defaults:
+// 
+
+$bare-link-color:	 			#00E !default;
+
+/* 
+   #links
+   ========================================================================== */
+
+/**
+ * The links module provides additional styles for links.
+ */
+
+a {
+	color: $bare-link-color;
+}
