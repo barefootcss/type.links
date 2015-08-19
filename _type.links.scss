@@ -16,7 +16,6 @@ $bare-link-color:	 			#00E !default;
  * The links module provides additional styles for links.
  */
 
-a,
-a:visited {
+a {
 	color: $bare-link-color;
 }
